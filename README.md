@@ -1,1 +1,1 @@
-# Automatic-Attendance-Marking-System-with-Hand-sanitizer-dispenser
+# Automatic-Attendance-Marking-System-with-Hand-Sanitizer-Dispenser
